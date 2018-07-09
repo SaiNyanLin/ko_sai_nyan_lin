@@ -6,7 +6,7 @@ Improved tool for splitting UPDATE.APP for Huawei phones
 To extract execute:
 ```
 chmod +x splitupdate
-./splitupdate UPDATE.APP
+./konyanlin UPDATE.APP
 ```
 
 The img files will be extracted in the /output/ folder.
